@@ -2,6 +2,4 @@
 
 [BubbleSorting](https://github.com/YoonGun24/Algorithm/blob/main/Homework/BubbleSorting.pde)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/BubbleSort.png" width="500">
-</p>
+<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/BubbleSort.png" width="500">
