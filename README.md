@@ -10,7 +10,8 @@
 
 <img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/Insert.png" width="500">
 
-[MergeSorting] 
-<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/Homework/Screenshot/Merge.png" width="500">
-[QuickSorting]
-<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/Homework/Screenshot/Quick.png" width="500">
+[MergeSorting](https://github.com/YoonGun24/Algorithm/blob/main/Homework/QucikSorting.pde)
+<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/Homework/Screenshot/MergeSorting.png" width="500">
+
+[QuickSorting](https://github.com/YoonGun24/Algorithm/blob/main/Homework/QucikSorting.pde)
+<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/Homework/Screenshot/QuickSorting.png" width="500">
