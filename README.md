@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/BubbleSort.png" width="500">
 
 [InsertSorting] 
-<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/Homework/Screenshot/Insert.png" width="500">
+<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/Insert.png" width="500">
 
 [MergeSorting] 
 <img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/Homework/Screenshot/Merge.png" width="500">
