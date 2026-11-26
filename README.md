@@ -45,3 +45,19 @@
 [MatrixPath](https://github.com/YoonGun24/Algorithm/blob/main/Homework/MatrixPath/MatrixPath.pde)
 
 <img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/MatrixPath.gif" width="500">
+
+[BFS](https://github.com/YoonGun24/Algorithm/blob/main/Homework/BFS/BFS.pde)
+
+<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/BFS.gif" width="500">
+
+[DFS](https://github.com/YoonGun24/Algorithm/blob/main/Homework/DFS/DFS.pde)
+
+<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/DFS.gif" width="500">
+
+[KruskalMST](https://github.com/YoonGun24/Algorithm/blob/main/Homework/KruskalMST/KruskalMST.pde)
+
+<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/KruskalMST.gif" width="500">
+
+[PrimMST](https://github.com/YoonGun24/Algorithm/blob/main/Homework/PrimMST/PrimMST.pde)
+
+<img src="https://raw.githubusercontent.com/YoonGun24/Algorithm/main/Homework/Screenshot/PrimMST.gif" width="500">
